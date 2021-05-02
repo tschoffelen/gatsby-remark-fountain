@@ -59,3 +59,5 @@ plugin in your `gatsby-config.js` file:
   }
 }
   ```
+
+If you also use `gatsby-remark-prismjs` or a similar syntax highlighter, make sure to include it after the `gatsby-remark-fountain` plugin. Order matters!
