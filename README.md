@@ -8,7 +8,6 @@ Adds [Fountain](https://fountain.io) code support to Gatsby's Remark integration
 When installed, this will turn:
 
 ```markdown
-    
     This is a bit of dialogue from the movie:
 
     ```fountain
@@ -20,13 +19,11 @@ When installed, this will turn:
     ZIVA
     Working on it.
     ```
-
 ```
 
 Into this:
 
 ```html
-
     <p>This is a bit of dialogue from the movie:</p>
 
     <div class="fountain-body fountain-body-inline">
@@ -40,7 +37,6 @@ Into this:
             <p>Working on it.</p>
         </div>
     </div>
-
 ```
 
 
