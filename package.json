@@ -1,0 +1,11 @@
+{
+  "name": "gatsby-remark-fountain",
+  "description": "Fountain markdown code block parser.",
+  "author": "Thomas Schoffelen <thomas@schof.co>",
+  "version": "1.0.0",
+  "license": "MIT",
+  "main": "src/index.js",
+  "dependencies": {
+    "unist-util-visit": "^2.0.3"
+  }
+}
