@@ -1,5 +1,5 @@
 const visit = require('unist-util-visit');
-const fountain = require('./fountain');
+const fountain = require('./src/fountain');
 
 module.exports = async({ markdownAST }) => {
 	visit(markdownAST, 'code', node => {

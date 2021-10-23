@@ -4,7 +4,7 @@
   "author": "Thomas Schoffelen <thomas@schof.co>",
   "version": "1.0.2",
   "license": "MIT",
-  "main": "src/index.js",
+  "main": "./index.js",
   "dependencies": {
     "unist-util-visit": "^2.0.3"
   }
